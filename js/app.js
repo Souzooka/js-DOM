@@ -49,3 +49,34 @@ aliasBox.appendChild(alias8);
 
 //Final Boss
 /*8. Create your own profile.*/
+
+
+var profile = document.getElementsByClassName("block3 col-sm-4")[2];
+
+
+var profileName = document.createElement("div");
+profileName.className = "name";
+profileName.innerHTML = "Souzooka";
+
+profile.appendChild(profileName);
+
+var profilePosition = document.createElement("div");
+profilePosition.className = "position";
+profilePosition.innerHTML = "JavaScript";
+
+profile.appendChild(profilePosition);
+
+var profileAlias = document.createElement("div");
+profileAlias.className = "alias";
+profileAlias.innerHTML = "Chief";
+
+profile.appendChild(profileAlias);
+
+var profileBio = document.createElement("div");
+profileBio.className = "profile";
+profileBio.innerHTML = "Yo Allan please add a description here.";
+
+profile.appendChild(profileBio);
+
+
+

@@ -30,6 +30,10 @@ document.getElementsByClassName("profile")[2].innerHTML = "Now that there is the
 
 Append this div element to the nameBox div*/
 
+var name7 = document.createElement("div");
+name7.id = "name7";
+name7.innerHTML = "Chuck Norris";
+nameBox.appendChild(name7);
  
 
 /*7. Create a div element for Grimmace and give it an id of "alias8". Inside this div element, give it the contents of "The Purple Monster".

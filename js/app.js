@@ -10,7 +10,7 @@ document.getElementById("name1").innerHTML = "Tay-Tay";
 
 Project Manager*/
 
-
+document.getElementById("position2").innerHTML = "Project Manager";
 
 /*3. Replace the n/a with the following:
 

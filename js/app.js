@@ -40,6 +40,10 @@ nameBox.appendChild(name7);
 
 Append this div element to the aliasBox div.*/
 
+var alias8 = document.createElement("div");
+alias8.id = "alias8";
+alias8.innerHTML = "The Purple Monster";
+aliasBox.appendChild(alias8);
 
 
 

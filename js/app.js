@@ -20,7 +20,7 @@ document.getElementById("alias3").innerHTML = "Concatenation";
 
 /*4. Replace the n/a for Snoop with the gangsta lorem ipsum*/
 
-
+document.getElementsByClassName("profile")[0].innerHTML = "Lorem ipsum dolizzle boofron bizzle, consectetizzle adipiscing elit. Nullizzle sapien velizzle, funky fresh volutpizzle, shizzlin dizzle crunk, gravida vizzle, its fo rizzle. Pellentesque break yo neck, yall tortizzle. Dang erizzle. The bizzle izzle dolor dapibus turpis tellivizzle my shizz. Maurizzle pellentesque nibh et turpizzle. Pimpin' izzle tortizzle. Pellentesque eleifend bow wow wow boofron. In crackalackin shizzlin dizzle platea dictumst. Yo mamma my shizz. Gangster fo shizzle urna, pretium crackalackin, mattizzle izzle, eleifend vitae, nunc. Boofron suscipizzle. Cool sempizzle velit sed purizzle.";
 
 /*5. Relace the n/a for Samuel L Jackson with his lorem ipsum*/
 
